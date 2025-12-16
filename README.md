@@ -1,7 +1,7 @@
 # MVP – Engenharia de Dados
 
 Este repositório contém o MVP da Sprint de Engenharia de Dados
-desenvolvido por **Pedro Mendes de Azambuja Rodrigues**.
+desenvolvido por Pedro Mendes de Azambuja Rodrigues.
 
 O conteúdo completo do MVP (objetivo, pipeline, análises e autoavaliação)
 está organizado na pasta **[`notebooks/`](notebooks/)**.
